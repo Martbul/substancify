@@ -1,0 +1,2 @@
+# substancify
+A subscription manager
